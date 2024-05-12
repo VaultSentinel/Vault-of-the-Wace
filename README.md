@@ -1,4 +1,4 @@
-## All resources can be accessed [here](https://waceresources.vercel.app)
+## All resources can be accessed [here](https://vaultofthewace.xyz)
 We are very interested in receiving more resources, especially from the last few years. If you would like to support other WACE students, please send us the resources to suspiciouslyinteresting@proton.me.
 
 # How to contribute
