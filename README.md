@@ -1,3 +1,4 @@
+## All resources can be accessed [here](https://waceresources.vercel.app)
 We are very interested in receiving more resources, especially from the last few years. If you would like to support other WACE students, please send us the resources to suspiciouslyinteresting@proton.me.
 
 # How to contribute
@@ -15,7 +16,7 @@ There's a couple ways to contribute by adding your own tests or notes to the rep
 Unfortunately the GitHub website only allows for uploading of folders/files, or editing files individually. This means that you'll be able to only upload tests/notes using the website, so depending on how you're contributing you may need to use the other method.
 
 To upload a file:
-1. First you'll need to fork the repository (make your own copy of it), by going [here](https://github.com/e4rofv2/resources) and clicking `Fork` near the top right.
+1. First you'll need to fork the repository (make your own copy of it), by going [here](https://github.com/VaultSentinel/Vault-of-the-Wace) and clicking `Fork` near the top right.
     - If you've done this in past there's no need to create a second fork.
 2. Go to the folder in your fork's repository where you want the file(s) uploaded.
 3. Drag-and-drop the file from your file explorer onto the website.
@@ -29,7 +30,7 @@ To upload a folder:
 ### By cloning the repository
 Steps:
 1. You may first have to download and install Git if your computer doesn't have it already.
-2. Then you'll need to fork the repository (make your own copy of it), by going [here](https://github.com/e4rofv2/resources) and clicking `Fork` near the top right.
+2. Then you'll need to fork the repository (make your own copy of it), by going [here](https://github.com/VaultSentinel/Vault-of-the-Wace) and clicking `Fork` near the top right.
     - If you've done this in past there's no need to create a second fork.
 3. Open your terminal in the directory that you want to download the repository to.
 4. On your fork's repository, find the `Code` dropdown button and copy the .git link shown. Then type `git clone <insert link here>` in the terminal, using the link. For example, it might be `git clone https://github.com/VaultSentinel/Vault-of-the-Wace`
