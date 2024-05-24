@@ -42,8 +42,6 @@ Steps:
 8. After uploading your changes, to merge them into this repository from your fork, go to your fork's main page and click the pull request button then follow the steps.
 
 ## Sorting and renaming
-**Help wanted:** If you are interested in sorting/renaming, please go through the `unsorted discord resources` folder for each subject (use the search feature to know which subjects). As of writing this, there are 11 subjects that have this folder.
-
 You might have noticed that there are some sections in the repository which are still unsorted, or may have mistakes with the test names.
 
 There doesn't seem to be any way to rename folders or relocate files on the GitHub website, so you'll have to follow the cloning guide above.
