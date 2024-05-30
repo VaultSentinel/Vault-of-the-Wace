@@ -1,4 +1,4 @@
-## All resources can be accessed [here](https://vaultofthewace.xyz)
+## *There are no files in this repository*. Download files [from here](https://vaultofthewace.xyz)
 We are very interested in receiving more resources, especially from the last few years. If you would like to support other WACE students, please send us the resources to suspiciouslyinteresting@proton.me.
 
 # How to contribute
@@ -40,8 +40,3 @@ Steps:
 6. To make Git recognise all your changes, type `git add -A`
 7. Then to upload your changes to your fork, type `git commit -m message`, replacing `message` with a description of your changes, and then type `git push`
 8. After uploading your changes, to merge them into this repository from your fork, go to your fork's main page and click the pull request button then follow the steps.
-
-## Sorting and renaming
-You might have noticed that there are some sections in the repository which are still unsorted, or may have mistakes with the test names.
-
-There doesn't seem to be any way to rename folders or relocate files on the GitHub website, so you'll have to follow the cloning guide above.
