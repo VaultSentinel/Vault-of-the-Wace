@@ -1,5 +1,5 @@
 ## *There are no files in this repository*. Download files [from here](https://vaultofthewace.xyz)
-We are very interested in receiving more resources, especially from the last few years. If you would like to support other WACE students, please send us the resources to vaultofthewace@proton.me.
+We are very interested in receiving more resources, especially from the last few years. If you would like to support other WACE students, please send us the resources at vaultofthewace@proton.me.
 
 # How to contribute
 ## General rules
